@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body  {
+  background-image: url("img_tree.gif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+</style>
+</head>
+<body>
+
+<h1>The background-attachment Property</h1>
+
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>If you do not see any scrollbars, try to resize the browser window.</p>
+
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body  {
+  background-image: url("img_tree.gif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+</style>
+</head>
+<body>
+
+<h1>The background-attachment Property</h1>
+
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>If you do not see any scrollbars, try to resize the browser window.</p>
+
+</body>
+</html>
+
+
+The background-attachment Property
+The background-image is fixed. Try to scroll down the page.
+
+The background-image is fixed. Try to scroll down the page.
+
+The background-image is fixed. Try to scroll down the page.
+
+The background-image is fixed. Try to scroll down the page.
+
+The background-image is fixed. Try to scroll down the page.
+
+The background-image is fixed. Try to scroll down the page.
+
+The background-image is fixed. Try to scroll down the page.
+
+The background-image is fixed. Try to scroll down the page.
+
+The background-image is fixed. Try to scroll down the page.
+
+The background-image is fixed. Try to scroll down the page.
+
+The background-image is fixed. Try to scroll down the page.
+
+The background-image is fixed. Try to scroll down the page.
+
+The background-image is fixed. Try to scroll down the page.
+
+The background-image is fixed. Try to scroll down the page.
+
+The background-image is fixed. Try to scroll down the page.
+
+The background-image is fixed. Try to scroll down the page.
+
+The background-image is fixed. Try to scroll down the page.
+
+The background-image is fixed. Try to scroll down the page.
+
+The background-image is fixed. Try to scroll down the page.
+
+The background-image is fixed. Try to scroll down the page.
+
+The background-image is fixed. Try to scroll down the page.
+
+The background-image is fixed. Try to scroll down the page.
+
+The background-image is fixed. Try to scroll down the page.
+
+If you do not see any scrollbars, try to resize the browser w
